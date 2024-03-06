@@ -1,0 +1,30 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 24px;
+    margin-right: 24px;
+}
+
+h1 {
+    background-color: rgb(233, 214, 91);
+    padding: 8px;
+}
+h4 {
+    background-color: rgb(235, 240, 144);
+    padding: 8px;
+    margin-top: -20px;
+}
+h3 {
+    background-color: rgb(233, 214, 91);
+    padding: 8px;
+    margin-top: -20px;
+    margin-left: -40px;
+}
+ul {
+    display: inline-block;
+    margin-bottom: 20px;
+
+}
+
+ol {
+    display: block;
+}

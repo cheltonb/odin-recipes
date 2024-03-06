@@ -1,8 +1,10 @@
 body {
     display: block;
-    background-color:rgb(226, 220, 212);
+    background-color:rgb(255, 255, 255);
     margin-left: 24px;
     margin-right: 24px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
 }
 
 img {
@@ -29,8 +31,6 @@ li {
     margin-left: -6px;
     margin-top: -1px;
     list-style: none;
-    font: serif;
-    color: black;
     font-size: 14px;
     font-weight: bold;
 }
